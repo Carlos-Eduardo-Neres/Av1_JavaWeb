@@ -1,8 +1,3 @@
-<%-- 
-    Document   : index
-    Created on : 12/05/2021, 17:56:29
-    Author     : Diego
---%>
 <%@page import="Pacote.Times"%>
 <%@page import="Pacote.Mes"%>
 <%@page import='java.util.List'%>
